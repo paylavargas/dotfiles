@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = miapaylagvargas@gmail.com
+	name = Payla Vargas
